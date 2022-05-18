@@ -1,4 +1,4 @@
 def click():
-    print("word")
+    print("Now")
 
 click()
